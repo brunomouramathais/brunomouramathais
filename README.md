@@ -1,16 +1,102 @@
-## Hi there 👋
+# 👋 Olá! Eu sou [Bruno Moura]
 
-<!--
-**brunomouramathais/brunomouramathais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de **Ciência da Computação**  
+💻 Apaixonado por desenvolvimento de software, algoritmos e soluções criativas  
+🌱 Atualmente aprendendo: C#, .NET, Estruturas de Dados, e mais!  
+📍 Baseado em [Medianeira/Paraná]
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias e Ferramentas
+
+🚀 Tecnologias e Ferramentas
+
+- Linguagens: `C`, `C#`, `Python`, `JavaScript`, `SQL (MySQL, Oracle)`
+- Web: `HTML`, `CSS`, `Node.js`
+- Banco de Dados: `MySQL`, `Oracle`, `SQLite`
+- Ferramentas: `Git`, `GitHub`, `Visual Studio`, `VS Code`
+- Outros: `Linux`, `Windows`
+
+<img 
+    align="left" 
+    alt="C"
+    title="C" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://icongr.am/devicon/c-original.svg?size=128&color=currentColor" 
+/>
+<img 
+    align="left" 
+    alt="C#" 
+    title="C#"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://icongr.am/devicon/csharp-original.svg?size=129&color=currentColor" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://icongr.am/devicon/python-original.svg?size=129&color=currentColor" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://icongr.am/devicon/javascript-original.svg?size=129&color=currentColor" 
+/>
+<img 
+    align="left" 
+    alt="SQL" 
+    title="SQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://icongr.am/devicon/oracle-original.svg?size=129&color=currentColor" 
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+
+<br/>
+<br/>
+
+
+
+---
+
+## 📚 Projetos em Destaque
+
+🔧 **Sistema de Estacionamento (em C#)**  
+> Projeto com foco em gerenciamento de vagas, tempo de permanência e cobranças automáticas.
+
+📈 **Analisador de Dados com Python**  
+> Scripts para análise e visualização de dados com `pandas` e `matplotlib`.
+
+🎮 **Jogo simples em C (terminal)**  
+> Desenvolvimento de lógica e estrutura usando somente bibliotecas padrão.
+
+---
+
+## 💡 Sobre Mim
+
+Gosto de resolver problemas através da programação e estou sempre buscando aprender mais e melhorar minhas habilidades. Me interesso bastante por desenvolvimento backend, automação e inteligência artificial.
+
+---
+
+## 📫 Contato
+
+- Email: [brunomouramfs@gmail.com]  
+- LinkedIn: [www.linkedin.com/in/BrunoMouraMathiasFernandesSimão]  
+- GitHub: [https://github.com/brunomouramathais]
+---
+
+⭐ Obrigado por visitar meu perfil!
