@@ -9,8 +9,6 @@
 
 ## 🚀 Tecnologias e Ferramentas
 
-🚀 Tecnologias e Ferramentas
-
 - Linguagens: `C`, `C#`, `Python`, `JavaScript`, `SQL (MySQL, Oracle)`
 - Web: `HTML`, `CSS`, `Node.js`
 - Banco de Dados: `MySQL`, `Oracle`, `SQLite`
@@ -78,8 +76,8 @@
 🔧 **Sistema de Estacionamento (em C#)**  
 > Projeto com foco em gerenciamento de vagas, tempo de permanência e cobranças automáticas.
 
-📈 **Analisador de Dados com Python**  
-> Scripts para análise e visualização de dados com `pandas` e `matplotlib`.
+📈 **Projeto de Dados com Power BI**  
+> Desenvolvimento de dashboard em Power BI para análise estratégica de vendas e lucros, com foco em produtos, segmentos e países.
 
 🎮 **Jogo simples em C (terminal)**  
 > Desenvolvimento de lógica e estrutura usando somente bibliotecas padrão.
